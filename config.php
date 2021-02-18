@@ -7,7 +7,7 @@
                 <title>Gabriel</title>
                 <idade>24</idade>
             </item>
-        </informacao>
+        </informacao> 
     </rss>
     '
     $dir = mkdir('pasta_xml')
